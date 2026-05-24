@@ -11,9 +11,9 @@ VIT College, Kondhwa Campus | 5–6 March
 
 **Members:**
 Atharva Bhagwat
+Om Shelke
 Parth Bujade
 Payal Kainge
-Om Shelke
 
 **Domain:** IoT and Smart Infrastructure
 
